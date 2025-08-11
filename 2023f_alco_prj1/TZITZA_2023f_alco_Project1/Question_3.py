@@ -35,4 +35,4 @@ class HashTable:
                 self.count -= 1
                 return True
             index = (index + 1) % self.size
-        return Fals
+        return False
