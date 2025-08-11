@@ -108,4 +108,4 @@ print(f"Maximum Number of Transactions Card: {max_count_card}, Number of Transac
 # Print execution time
 end_time = time.time()
 execution_time = (end_time - start_time) * 1000.0  # Convert to milliseconds
-print(f"\nExecution Time: {execution_time:.4f} milliseconds")
+print(f"\nExecution Time: {execution_time:.4f} milliseconds"
