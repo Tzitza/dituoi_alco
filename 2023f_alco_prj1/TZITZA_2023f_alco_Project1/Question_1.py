@@ -17,4 +17,4 @@ for _ in range(1000000):
     amount = round(random.uniform(10, 1000), 2)
     
     # Αποθήκευση της χρέωσης στη λίστα
-    charges.append((credit_card_number, amount))
+    charges.append((credit_card_number, amount)
